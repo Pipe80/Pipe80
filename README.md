@@ -10,4 +10,5 @@ Tämä Github on minulle hieman vieraampi, olen tottunut käyttämään GitLabia
 Tällä hetkellä minulla on tekeillä WordPressillä tehtävät kotisivut, jonne minun on tarkoitus koota tarkemmin sitä mitä olen ollut mukana tekemässä.
 Sinne linkitän sitten jossain vaiheessa myös nämä sivut täältä.
 Minä opettelen, joten ole armollinen. 
-![career]([http://url/to/img.png](https://pixabay.com/fi/photos/yritt%c3%a4j%c3%a4-idea-osaamista-vision-1340649/))
+
+![]([http://url/to/img.png](https://pixabay.com/fi/photos/yritt%c3%a4j%c3%a4-idea-osaamista-vision-1340649/)
