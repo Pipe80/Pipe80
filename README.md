@@ -11,4 +11,4 @@ Tällä hetkellä minulla on tekeillä WordPressillä tehtävät kotisivut, jonn
 Sinne linkitän sitten jossain vaiheessa myös nämä sivut täältä.
 Minä opettelen, joten ole armollinen. 
 
-![]([http://url/to/img.png](https://pixabay.com/fi/photos/yritt%c3%a4j%c3%a4-idea-osaamista-vision-1340649/)
+![alt text](https://pixabay.com/get/g8fea9ca6b0062c109fcd75a77a3c2109101b7b25fe1d5d0b3edbf071c4b8e31294fa5392b0925205c2d94bd6a193775d638cc7bd304a1f1f863b6597b3b56079_1920.jpg)
