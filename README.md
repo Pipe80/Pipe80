@@ -10,4 +10,4 @@ sillä minua on aina kiinnostanut tietokoneet ja ongelmanratkaisu. 40-vuotiaana 
 Sinne linkitän sitten jossain vaiheessa myös nämä sivut täältä.
 Minä opettelen, joten ole armollinen. 
 
-![alt text](https://pixabay.com/get/g8fea9ca6b0062c109fcd75a77a3c2109101b7b25fe1d5d0b3edbf071c4b8e31294fa5392b0925205c2d94bd6a193775d638cc7bd304a1f1f863b6597b3b56079_1920.jpg)
+![alt text](https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg)
