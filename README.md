@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pipe80
 - 👀 I’m interested in frontend.
 - 🌱 I’m currently learning JavaScript and Github.
-- 💞️ I’m looking to collaborate with you.
+- 💞️ I’m looking for a new challenges.
 
 Moi,
 Tällä hetkellä opiskelen Jyväskylän ammattikorkeakoulussa Ohjelmistoalan osaaja nimisessä koulutuksessa. Siihen on kuulunut paljon erilaisia kursseja ja projekteja ja olen itsekkin kasvanut niiden myötä ymmärtämään paremmin mitä it-ala pitää sisällään. Erityisen tärkeää on osata sanoittaa se oma osaaminen sekä tuoda esille erilaiset projektit missä on ollut mukana.
