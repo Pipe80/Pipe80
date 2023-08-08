@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pipe80
 - 👀 I’m interested in frontend, low code and Javascript.
-- 🌱 I’m currently learning JavaScript and Github.
+- 🌱 I’m currently learning AI, JavaScript, React, React Native and Github.
 - 💞️ I’m looking for a new challenges.
 
 Moi,
